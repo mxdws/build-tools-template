@@ -47,7 +47,7 @@ gulp.task('getData', function() {
 
   console.log("Getting football data from api");
 
-  var token = '591024a7b9c74f66b6a079e9d34a0f04';
+  var token = '';
 
   var options = {
     'method': 'GET',
